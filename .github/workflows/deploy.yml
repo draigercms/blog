@@ -2,7 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main]
+    branches: 
+        - main    
   workflow_dispatch:
 
 permissions:
@@ -26,7 +27,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --minify
+        run: hugo --minify --gc
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
