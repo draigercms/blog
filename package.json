@@ -9,6 +9,7 @@
     "build": "hugo --gc --minify"
   },
   "dependencies": {
+    "@netlify/neon": "^0.1.0",
     "@tailwindcss/cli": "^4.1.12",
     "@tailwindcss/typography": "^0.5.10",
     "tailwindcss": "^4.1.12"
