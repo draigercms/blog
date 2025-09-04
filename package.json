@@ -1,9 +1,9 @@
 {
-  "name": "draigercms-by-hugoblox",
+  "name": "draigercms-github-io",
   "version": "1.0.0",
   "private": true,
-  "packageManager": "pnpm@10.14.0",
-  "description": "Personal Blog Site, tested with HugoBlox Theme.",
+  "packageManager": "pnpm@10.15.0",
+  "description": "Security Administrator of JK-acme Foundation.",
   "scripts": {
     "dev": "hugo server --disableFastRender",
     "build": "hugo --gc --minify"
