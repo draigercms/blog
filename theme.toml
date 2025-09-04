@@ -1,15 +1,14 @@
-name = "Easy Docs"
+name = "draigercms.github.io"
 license = "MIT"
-licenselink = "https://github.com/HugoBlox/theme-documentation/blob/main/LICENSE.md"
-description = "Easy, all-in-one beautiful documentation website including a customizable homepage and blog. Super fast, empowering you to focus on your content."
+licenselink = "https://github.com/draigercms/draigercms.github.io/blob/main/LICENSE"
+description = "Security Administrator of JK-acme Foundation."
 
-homepage = "https://github.com/HugoBlox/theme-documentation"
-demosite = "https://hugo-docs-theme.netlify.app"
+homepage = "https://github.com/draigercms/draigercms.github.io"
+netlify_site = "https://draigercms.netlify.app"
 
-tags = ["landing", "docs", "blog", "responsive", "minimal", "light", "dark", "multilingual", "dark mode", "tailwind", "company", "gallery"]
-features = ["secure", "fast", "search", "dark mode", "widgets"]
+# tags = ["landing", "docs", "blog", "responsive", "minimal", "light", "dark", "multilingual", "dark mode", "tailwind", "company", "gallery"]
+# features = ["secure", "fast", "search", "dark mode", "widgets"]
 
-# If the theme has a single author
-[author]
-  name = "George Cushen"
-  homepage = "https://georgecushen.com/"
+# [author]
+#   name = "Drai Tixian"
+#   homepage = "https://draigercms.bearblog.dev/"
