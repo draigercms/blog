@@ -2,6 +2,8 @@
 
 ![Logo](https://upld.zone.id/uploads/wciqdb6iq/logo1.webp)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d0e86d9-c6ee-4022-b74c-700e2ba63e66/deploy-status)](https://app.netlify.com/projects/draigercms/deploys)
+
 ## Security Administrator of [Jk-acme Foundation](https://jk-acme.github.io/)
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/details/docs/)
