@@ -1,4 +1,4 @@
-module github.com/draigercms/blog
+module github.com/draigercms/draigercms.github.io
 
 go 1.25.0
 
